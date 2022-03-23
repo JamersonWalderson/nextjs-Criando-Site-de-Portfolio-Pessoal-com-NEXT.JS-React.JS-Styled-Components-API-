@@ -1,8 +1,8 @@
 import react from "react";
 
-export default function index() {
+export default function Header() {
 
   return (
-    <h1>Index</h1>
+    <h1>Header</h1>
   )
 }
